@@ -10,7 +10,7 @@ function Banner() {
         <span className="text-pink-500">new everyday!!!</span></h1>
         <p className="text-xl">Lorem, ipsun dolor sit amet cisuc scksdj sahcnkf lajscldc 
             ugxcscgkasjc agxg suy fusxua efuias uyidaj efuuywhdu sydiow
-            dyf yscwe f scueufgu scuwh uhdwdwfy !
+            dyf yscwe f scueufgu scuwh uhdwdwfy !  {/*https://github.com/Vivekrane514/Store.git */}
         </p>
         <label className="input input-bordered flex items-center gap-2">
   <svg
@@ -26,7 +26,7 @@ function Banner() {
   <input type="text" className="grow" placeholder="Email" />
 </label>
    </div>
-   <button className="btn mt-6 btn-secondary">Secondary</button>
+   <button className="btn mt-6 btn-secondary">Get Started</button>
     </div>
     <div className=" order-1 w-full md:w-1/2">
     <img src={Books} className="w-92 h-92" alt="" />
